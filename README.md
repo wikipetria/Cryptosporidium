@@ -1,4 +1,8 @@
 # Cryptosporidium
+
+Please contact Joe Campo (Joe Campo <jcampo@antigendiscovery.com>) for specific information on executing this analysis and to obtain the final scripts
+
+
 Genome wide identification of Cryptosporidium cell surface and secreted proteins associated with humoral immunity to reinfection
 
 ClinicalTrials.gov identifier NCT02764918. “Cryptosporidiosis and Enteropathogens in Bangladesh”
